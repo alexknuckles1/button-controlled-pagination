@@ -24,7 +24,7 @@
 </head>
 <body>
 
-<h1>The grid-area Property</h1>
+
 
 <p>You can use the <em>grid-area</em> property to specify where to place an item.</p>
 
